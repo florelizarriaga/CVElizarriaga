@@ -1,0 +1,52 @@
+body {
+	
+	color: #808b97;
+	background: url(fondo.jpg);
+	font-family: 'Courgette', cursive;
+    }
+
+nav {
+	color: #000000;
+	float: left;
+	margin-left: 50px; 
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.titulo {
+	color: #78b7bb;
+}
+
+#name {
+	font-size: 50px;
+	color: #0278ae;
+	text-shadow: -3px 2px 5px #51adcf;
+}
+
+header {
+	margin: 50px 500px;
+	width: 50%;
+	padding: 40px;
+	background: #fbfbfb;
+}
+
+article {
+	margin: 50px 500px;
+	width: 50%;
+	padding: 40px;
+	margin-bottom: 15px;
+	background: #fbfbfb;
+}
+div { 
+	margin: 50px 500px;
+	width: 50%;
+	padding: 40px;
+	margin-bottom: 15px;
+	background: #fbfbfb;
+}
+footer {
+	margin: 50px 500px;
+	width: 50%;
+	padding: 40px;
+	background: #fbfbfb;
+}
